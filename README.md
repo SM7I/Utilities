@@ -4,7 +4,7 @@ Precompiled retro computer utilities for:
 <li>x86_64 Windows
 <li>x86_64 Linux
 <li>x86_64 Mac Intel
-<li>Mac m1
+<li>ARM64 Mac m1
 
 In this repo you´ll find different utilities compiled for both x86_64 Windows and Linux. More utilities will be contantly added so keep an eye out here from time to time.
 
@@ -17,7 +17,7 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows a
 | mdvtool-win | Windows version of Sinclair QL MDV image manipulation |
 | qltools-lin | Linux version of Sinclair QL floppy image manipulation |
 | qltools-mac-int | Mac intel version of Sinclair QL floppy image manipulation |
-| qltools-mac-m1 | Apple m1 version of Sinclair QL floppy image manipulation |
+| qltools-mac-m1 | Mac m1 version of Sinclair QL floppy image manipulation |
 | qltools-win | Windows version of Sinclair QL floppy image manipulation |
 | c1541-lin | Linux version of Commodore 64/128 floppy image manipulation |
 | c1541-win | Windows version of Commodore 64/128 floppy image manipulation |
