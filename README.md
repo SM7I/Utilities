@@ -1,5 +1,5 @@
 # Utilities
-Precompiled retro computer utilities for both x86_64 Windows and x86_64 Linux
+Precompiled retro computer utilities for x86_64 Windows, x86_64 Linux, x86_64 MAC and Apple m1
 
 In this repo you´ll find different utilities compiled for both x86_64 Windows and Linux. More utilities will be contantly added so keep an eye out here from time to time.
 
