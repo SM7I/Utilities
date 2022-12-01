@@ -6,7 +6,7 @@ Precompiled retro computer utilities for:
 <li>x86_64 Mac Intel
 <li>ARM64 Mac m1
 
-In this repo you´ll find different utilities compiled for both x86_64 Windows and Linux. More utilities will be contantly added so keep an eye out here from time to time.
+In this repo you´ll find different utilities compiled for both x86_64 Windows and Linux. More utilities will be contantly added so keep an eye out here from time to time. You may, ofcourse, rename the tool and remove the -xxx tail once you downloaded it to your platform. It´s only named like that here in the repo to differentiate between the tools.
 
 | Filename  | Description |
 | ------------- | ------------- |
