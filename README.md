@@ -13,6 +13,7 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows a
 | ZX81putil-lin | Linux version of .P <-> WAV / TZX converter |
 | ZX81putil-mac-int | Mac intel version of .P <-> WAV / TZX converter |
 | ZX81putil-win | Windows version of .P <-> WAV / TZX converter |
+| mdrtool-lin | Linux version of ZX Spectrum MDR image manipulation |
 | mdvtool-lin | Linux version of Sinclair QL MDV image manipulation |
 | mdvtool-win | Windows version of Sinclair QL MDV image manipulation |
 | qltools-lin | Linux version of Sinclair QL floppy image manipulation |
@@ -21,4 +22,3 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows a
 | qltools-win | Windows version of Sinclair QL floppy image manipulation |
 | c1541-lin | Linux version of Commodore 64/128 floppy image manipulation |
 | c1541-win | Windows version of Commodore 64/128 floppy image manipulation |
-| mdrtool-lin | Linux version of ZX Spectrum MDR image manipulation |
