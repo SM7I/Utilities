@@ -29,7 +29,7 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows a
 | qxltool-lin | Linux version of Sinclair QL QXL.WIN image manipulation |
 | qxltool-win | Windows version of Sinclair QL QXL.WIN image manipulation |
 | | |
-| ZX81putil-lin | Linux version of ZX81 .P <-> WAV / TZX converter |
-| ZX81putil-mac-int | Mac intel version of ZX81 .P <-> WAV / TZX converter |
-| ZX81putil-mac-m1 | Mac m1 version of ZX81 .P <-> WAV / TZX converter |
-| ZX81putil-win | Windows version of ZX81 .P <-> WAV / TZX converter |
+| zx81putil-lin | Linux version of ZX81 .P <-> WAV / TZX converter |
+| zx81putil-mac-int | Mac intel version of ZX81 .P <-> WAV / TZX converter |
+| zx81putil-mac-m1 | Mac m1 version of ZX81 .P <-> WAV / TZX converter |
+| zx81putil-win | Windows version of ZX81 .P <-> WAV / TZX converter |
