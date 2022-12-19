@@ -10,10 +10,8 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows a
 
 | Filename  | Description |
 | ------------- | ------------- |
-| ZX81putil-lin | Linux version of ZX81 .P <-> WAV / TZX converter |
-| ZX81putil-mac-int | Mac intel version of ZX81 .P <-> WAV / TZX converter |
-| ZX81putil-mac-m1 | Mac m1 version of ZX81 .P <-> WAV / TZX converter |
-| ZX81putil-win | Windows version of ZX81 .P <-> WAV / TZX converter |
+| c1541-lin | Linux version of Commodore 64/128 floppy image manipulation |
+| c1541-win | Windows version of Commodore 64/128 floppy image manipulation |
 | | |
 | mdrtool-lin | Linux version of ZX Spectrum MDR image manipulation |
 | mdrtool-win | Windows version of ZX Spectrum MDR image manipulation |
@@ -31,5 +29,7 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows a
 | qxltool-lin | Linux version of Sinclair QL QXL.WIN image manipulation |
 | qxltool-win | Windows version of Sinclair QL QXL.WIN image manipulation |
 | | |
-| c1541-lin | Linux version of Commodore 64/128 floppy image manipulation |
-| c1541-win | Windows version of Commodore 64/128 floppy image manipulation |
+| ZX81putil-lin | Linux version of ZX81 .P <-> WAV / TZX converter |
+| ZX81putil-mac-int | Mac intel version of ZX81 .P <-> WAV / TZX converter |
+| ZX81putil-mac-m1 | Mac m1 version of ZX81 .P <-> WAV / TZX converter |
+| ZX81putil-win | Windows version of ZX81 .P <-> WAV / TZX converter |
