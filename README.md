@@ -26,8 +26,11 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows a
 | qltools-mac-m1 | Mac m1 version of Sinclair QL floppy image manipulation |
 | qltools-win | Windows version of Sinclair QL floppy image manipulation |
 | | |
-| qxltool-lin | Linux version of Sinclair QL QXL.WIN image manipulation |
-| qxltool-win | Windows version of Sinclair QL QXL.WIN image manipulation |
+| qxltool-lin | Linux version of Sinclair QL QXL.WIN image creation |
+| qxltool-win | Windows version of Sinclair QL QXL.WIN image creation |
+| | |
+| z80onmdr_lite-lin | Linux version of ZX Spectrum Z80/SNA image to MDR |
+| z80onmdr_lite-win | Windows version of ZX Spectrum Z80/SNA image to MDR |
 | | |
 | zx81putil-lin | Linux version of ZX81 .P <-> WAV / TZX converter |
 | zx81putil-mac-int | Mac intel version of ZX81 .P <-> WAV / TZX converter |
