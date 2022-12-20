@@ -25,7 +25,7 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows, 
 | mdvtool-mac-m1 | Sinclair QL MDV image manipulation | Mac m1
 | mdvtool-win | Sinclair QL MDV image manipulation | Windows |
 | | |
-| qlheader-lin | A tool that adds the 'magic-field' header to an executable binary without creating a zip package | Linux |
+| qlheader-lin | A tool that adds the 'magic-field' header to an <br>executable binary without creating a zip package | Linux |
 | | |
 | qltools-lin | Sinclair QL floppy image manipulation | Linux |
 | qltools-mac-int | Sinclair QL floppy image manipulation | Mac Intel |
