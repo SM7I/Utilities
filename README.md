@@ -13,7 +13,7 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows, 
 | **Commodore 64/128** | |
 | c1541-lin | Linux version of Commodore 64/128 floppy image manipulation |
 | c1541-win | Windows version of Commodore 64/128 floppy image manipulation |
-| ** SInclair ZX Spectrum 48/128** | |
+| **Sinclair ZX Spectrum 48/128** | |
 | mdrtool-lin | Linux version of ZX Spectrum MDR image manipulation |
 | mdrtool-win | Windows version of ZX Spectrum MDR image manipulation |
 | | |
