@@ -10,7 +10,7 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows a
 
 | Filename  | Description |
 | ------------- | ------------- |
-| ** Commodore 64/128 ** | |
+| **Commodore 64/128** |
 | c1541-lin | Linux version of Commodore 64/128 floppy image manipulation |
 | c1541-win | Windows version of Commodore 64/128 floppy image manipulation |
 | | |
