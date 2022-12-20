@@ -25,7 +25,7 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows, 
 | mdvtool-mac-m1 | Mac m1 version of Sinclair QL MDV image manipulation |
 | mdvtool-win | Windows version of Sinclair QL MDV image manipulation |
 | | |
-| qlheader-lin | Linux version of a tool that adds the magic header to an executable binary without creating a zip file |
+| qlheader-lin | Linux version of a tool that adds the 'magic-field' header to an executable binary without creating a zip package |
 | | |
 | qltools-lin | Linux version of Sinclair QL floppy image manipulation |
 | qltools-mac-int | Mac intel version of Sinclair QL floppy image manipulation |
@@ -34,6 +34,8 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows, 
 | | |
 | qxltool-lin | Linux version of Sinclair QL QXL.WIN image creation |
 | qxltool-win | Windows version of Sinclair QL QXL.WIN image creation |
+| | |
+| zip2-lin | Linux version of a tool that adds 'magic-field' header to a executable binary and creates a ZIP package |
 | **Sinclair ZX81** | |
 | zx81putil-lin | Linux version of ZX81 .P <-> WAV / TZX converter |
 | zx81putil-mac-int | Mac intel version of ZX81 .P <-> WAV / TZX converter |
