@@ -35,7 +35,7 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows, 
 | qxltool-lin | Sinclair QL QXL.WIN image creation | Linux |
 | qxltool-win | Sinclair QL QXL.WIN image creation | Windows |
 | | |
-| zip2-lin | A tool that adds 'magic-field' header to a executable binary and creates a ZIP package | Linux |
+| zip2-lin | A tool that adds 'magic-field' header to an <br> executable binary and creates a ZIP package | Linux |
 | **Sinclair ZX81** | |
 | zx81putil-lin | ZX81 .P <-> WAV / TZX converter | Linux |
 | zx81putil-mac-int | ZX81 .P <-> WAV / TZX converter | Mac Intel |
