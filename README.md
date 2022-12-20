@@ -11,7 +11,7 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows, 
 | Filename  | Description | Platform |
 | ------------- | ------------- | ------------- |
 | **Commodore 64/128** | | |
-| c1541-lin | D64 floppy image manipulation | '#0969DA' Linux |
+| c1541-lin | D64 floppy image manipulation | Linux |
 | c1541-win | D64 Commodore 64/128 floppy image manipulation | Windows |
 | **Sinclair ZX Spectrum 48/128** | |
 | mdrtool-lin | ZX Spectrum MDR image manipulation | Linux |
