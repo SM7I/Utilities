@@ -8,9 +8,9 @@ Precompiled retro computer utilities for:
 
 In this repo you´ll find different utilities compiled for both x86_64 Windows, Linux, x86_64 Mac and ARM64 Mac (m1). More utilities will be contantly added so keep an eye out here from time to time. You may, ofcourse, rename the tool and remove the -xxx tail once you downloaded it to your platform. It´s only named like that here in the repo to differentiate between the tools.
 
-| Filename  | Description |
-| ------------- | ------------- |
-| **Commodore 64/128** | |
+| Filename  | Description | Platform |
+| ------------- | ------------- | ------------- |
+| **Commodore 64/128** | | |
 | c1541-lin | Linux version of Commodore 64/128 floppy image manipulation |
 | c1541-win | Windows version of Commodore 64/128 floppy image manipulation |
 | **Sinclair ZX Spectrum 48/128** | |
