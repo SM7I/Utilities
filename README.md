@@ -41,3 +41,8 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows, 
 | zx81putil-mac-int | ZX81 .P <-> WAV / TZX converter | Mac Intel |
 | zx81putil-mac-m1 | ZX81 .P <-> WAV / TZX converter | Mac m1 |
 | zx81putil-win | ZX81 .P <-> WAV / TZX converter | Windows |
+| zxtext2p-mac-int | ZX81 Textfile to .P converter | Mac Intel |
+| zxtext2p-win | ZX81 Textfile to .P converter | Windows |
+| zxtool-lin | ZX81 .P to textfile converter | Linux |
+| zxtool-mac-int | ZX81 .P to textfile converter | Mac Intel |
+| zxtool-win | ZX81 .P to textfile converter | Windows |
