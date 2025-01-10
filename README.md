@@ -17,6 +17,8 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows, 
 | mdrtool-lin | ZX Spectrum MDR image manipulation | Linux |
 | mdrtool-win | ZX Spectrum MDR image manipulation | Windows |
 | | |
+| zmakebas-win | Tokenize TXT file and make .TAP or .P file | WIndows |
+| | |
 | z80onmdr_lite-lin | ZX Spectrum Z80/SNA image to MDR | Linux |
 | z80onmdr_lite-win | ZX Spectrum Z80/SNA image to MDR | Windows |
 | **Sinclair QL** | |
