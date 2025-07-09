@@ -49,3 +49,4 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows, 
 | zxtool-lin | ZX81 .P to textfile converter | Linux |
 | zxtool-mac-int | ZX81 .P to textfile converter | Mac Intel |
 | zxtool-win | ZX81 .P to textfile converter | Windows |
+| sersrv-lin | ZX81 Send .P files to ZX81 over serial using ZXPand+ | Linux |
