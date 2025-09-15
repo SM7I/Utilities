@@ -23,7 +23,7 @@ In this repo you´ll find different utilities compiled for both x86_64 Windows, 
 | z80onmdr_lite-lin | ZX Spectrum Z80/SNA image to MDR | Linux |
 | z80onmdr_lite-win | ZX Spectrum Z80/SNA image to MDR | Windows |
 | **Sinclair QL** | |
-| mdvtool-lin | Sinclair QL MDV image manipulation | Linux |
+| mdvtool-lin | Sinclair QL MDV image manipulation (retained XTcc field) | Linux |
 | mdvtool-mac-int | Sinclair QL MDV image manipulation | Mac Intel |
 | mdvtool-mac-m1 | Sinclair QL MDV image manipulation | Mac m1
 | mdvtool-win | Sinclair QL MDV image manipulation | Windows |
